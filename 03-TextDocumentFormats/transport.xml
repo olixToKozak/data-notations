@@ -1,0 +1,7 @@
+<transport>
+    <train line="małopolskie koleje" lenght="long">
+        <from>Krakow Airport</from>
+        <to>Krakow Main Station</to>
+        <howOften>30min</howOften>
+    </train>
+</transport>

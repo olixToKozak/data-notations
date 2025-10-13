@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>abc@gmail.com</sender>
+    <recipient>xyz@gmail.com</recipient>
+    <subject>subject</subject>
+    <messagebody>abc</messagebody>
+</email>

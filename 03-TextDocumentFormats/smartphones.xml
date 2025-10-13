@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="Iphone" model="11" releaseYear="2020">
+        <specs>
+            <screenSize unit="inch">6.2</screenSize>
+            <batteryCapacity unit="mAh">3700</batteryCapacity>
+            <storage unit="GB">128</storage>
+            <camera unit="MP">48</camera>
+        </specs>
+        <price currency="USD">799</price>
+    </smartphone>
 </smartphones>
