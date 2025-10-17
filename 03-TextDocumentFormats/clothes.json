@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+       "name": "Jack & Jones",
+       "founded": 1990,
+       "headquarters":"Brande,Middle Jutland, Denmark",
+       "employees":500,
+       "products":[
+        "Casual Wear",
+        "urban sportswear",
+        "tailoring"
+       ]
+    },
+    {
+        "name": "Primark",
+        "founded": 1969,
+        "headquarters": "Dublin, Ireland",
+        "employees":80000,
+        "products":[
+            "clothes",
+            "Casual Wear",
+            "Accessories"
+        ]
     }
 ]
